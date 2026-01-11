@@ -1,1 +1,61 @@
+CHAPTER : 3 WEBSITE STRUCTURE DESGIN
+Name : Rohit Mandar
+Roll No : 24
 
+Group A: Short Questions (2 Marks) 
+1. Define Information Architecture (IA). 
+Ans: Information Architecture is the way a website’s content is organized, structured, and labeled so users can easily find information and navigate the site.
+
+2. What is a ”Wireframe”? 
+Ans: A wireframe is a basic visual guide or blueprint of a website showing the layout of pages, placement of content, buttons, and navigation, without colors or detailed design.
+
+3. Explain the concept of ”Cognitive Friction” in web design. 
+Ans: Cognitive friction happens when users find a website confusing or hard to use, making it difficult to complete tasks due to unclear navigation, complex layouts, or unexpected actions.
+
+4. Why should URL slugs use hyphens instead of underscores?
+Ans: Hyphens (-) are easier for search engines and users to read than underscores (_), improving SEO and making URLs more understandable.
+
+Group B: Long Questions (4 Marks) 
+1. Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each. 
+Ans: Hierarchical (Tree) Structure: In this structure, the website is organized like a tree. The homepage is at the top, and other pages branch out under categories and subcategories. Users can navigate freely between main pages and subpages, making it easier to explore different sections without following a fixed order. This type of structure is best for websites with a lot of content or categories. Example: A college website where you have Home → Departments → Courses → Faculty → Contact.
+
+Linear (Sequential) Structure: Here, the pages are arranged in a fixed order. Users have to follow a step-by-step path and cannot skip ahead. It is usually used for processes, tutorials, or forms where completing one page is necessary to move to the next. Example: An online quiz, exam, or learning module where students finish Lesson 1 before Lesson 2.
+
+Comparison: The hierarchical structure gives users freedom to explore and find information in any order, while the linear structure guides users through a fixed process. Hierarchical is ideal for content-rich websites, while linear is perfect for learning, surveys, or guided workflows.
+
+Importance: Choosing the right structure helps improve navigation, reduces confusion, and makes the website user-friendly. Using the wrong structure can frustrate users or make the website hard to use.
+Example: An online exam or tutorial where users must complete Lesson 1 before Lesson 2.
+
+
+2. Explain the ”Three-Click Rule” and its significance in User Experience (UX) design. 
+Ans: The Three-Click Rule is a web design principle which says that users should be able to reach any page or information on a website within three clicks from the homepage.
+
+This rule is important because it makes websites easy and fast to use. Users don’t like wasting time clicking through too many pages to find what they need.
+
+If a website requires too many clicks, users may get frustrated and leave, which increases the bounce rate.
+
+Following this rule helps improve user experience (UX) by keeping navigation simple, logical, and user-friendly. It ensures that important information is quickly accessible, making the website more effective and enjoyable for users.
+
+Overall, it helps retain users, improves satisfaction, and encourages them to explore more of the website.
+
+3. ”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning a website’s structure.
+Ans: Planning is a crucial step before actually building a website because it helps organize pages, navigation, and content in a logical way. Starting development without planning can lead to confusion and rework later.
+
+Card Sorting is a technique where users or designers group related content together. It helps understand how the target audience expects information to be organized, making the website intuitive and easy to use.
+
+Flowcharts are diagrams that show the structure of the website and the paths users can take from one page to another. They help visualize navigation, page hierarchy, and user journeys.
+
+Using these tools ensures that the website is well-structured, organized, and user-friendly before any coding begins. It also reduces mistakes, avoids unnecessary redesigns, and saves time during development.
+
+Proper planning with these tools ensures the website meets user needs, provides a smooth experience, and functions efficiently from the start.
+
+SCENERIO  BASED QUESTION (5 MARKS)
+
+1. You are designing a website for a University. It has hundreds of pages (Admissions, Departments, Alumni, News). Which structural model would you choose? Draw a rough diagram and justify your choice. 
+ANS:
+
+9. Auser visits a website but leaves within 10 seconds because they cannot find the navigation menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure using the ”KISS” (Keep It Simple) principle. 
+Ans:
+
+10. An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Explain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slugs.
+Ans: 
