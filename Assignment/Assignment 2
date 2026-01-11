@@ -63,4 +63,56 @@ Guides what features and content should be included.
 
 Ensures the website meets the needs and expectations of the people who will visit it.
 
+SCENERIO BASED QUESTIOIN.
+
+Q1. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+Ans: Scenario: Client wants to skip the Testing phase.
+
+Persuasive argument:
+
+Skipping the testing phase to save time or money is very risky for an e-commerce website. Testing is important to make sure the site works properly for all users and devices.
+
+1.Security risks: Without testing, the website may have vulnerabilities that hackers can exploit, putting customer data, payments, and personal information at risk.
+2.Functionality issues: Buttons, forms, or the checkout system might not work correctly. This can frustrate users and make them leave the site.
+3.Compatibility problems: The website may not display or function properly on all browsers or devices, such as phones, tablets, or different browsers.
+
+Skipping testing can save money in the short term, but it may cause loss of customers, reputation, and even legal problems later. Testing ensures the website is safe, reliable, and user-friendly before launch.
+
+Q2.A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+Ans: In this case, the main problem is that the developer skipped the planning and design phases. By starting coding immediately, there was no clear structure, no site map, and no prototype for the client to review. As a result, the layout didn’t match the client’s expectations, leading to rejection midway.
+
+What went wrong:
+
+No planning or site map: The pages and navigation weren’t properly organized.
+
+No design prototype: The client could not visualize the website before development.
+
+Wasted time and effort: Coding had to be redone after the client rejected the layout.
+
+How it should have been handled:
+
+First, gather information and understand the client’s requirements.
+
+Create a site map showing all pages and their hierarchy.
+
+Design a prototype or wireframe to give the client a clear idea of the layout and features.
+
+Get client approval before starting coding.
+
+Q3. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
+Ans: The website was launched successfully, but students stopped visiting because exam schedules and other content were outdated.
+
+This shows that the Maintenance phase was neglected.
+
+Activities in the Maintenance phase:
+
+Content updates: Regularly update schedules, notices, results, and news to keep the website useful.
+
+Bug fixing: Correct errors, broken links, or malfunctioning features as they appear.
+
+Performance monitoring: Check website speed, responsiveness, security, and accessibility.
+
+Adding improvements: Upgrade features, add new functionalities, or enhance design based on user feedback.
+
+User engagement: Monitor usage patterns and make updates to keep users visiting the site.
 
