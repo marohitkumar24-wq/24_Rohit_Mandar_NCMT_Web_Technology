@@ -22,12 +22,45 @@ Ans: Planning is the most important step in web development because it sets the 
 
 Key activities during the planning phase:
 
-Defining goals: Deciding what the website should achieve, like providing information, selling products, or promoting services.
+1.Defining goals: Deciding what the website should achieve, like providing information, selling products, or promoting services.
+2.Understanding the target audience: Knowing who will use the website and what they expect.
+3.Creating a site map: Organizing the website’s pages and showing how they are connected.
+4.Choosing technology and tools: Selecting the right programming languages, frameworks, and platforms.
+5.Resource planning: Estimating time, budget, and the people needed to complete the project.
 
-Understanding the target audience: Knowing who will use the website and what they expect.
+Q2.Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
+Ans: The maintenance phase is continuous and repetitive because a website is never completely finished once it is launched.
 
-Creating a site map: Organizing the website’s pages and showing how they are connected.
+Activities in maintenance:
 
-Choosing technology and tools: Selecting the right programming languages, frameworks, and platforms.
+1.Bug fixing: Correcting errors or problems that appear after the website goes live.
+2.Content updates: Adding new information, images, or features to keep the site relevant.
+3.Performance monitoring: Checking website speed, security, and user experience regularly.
 
-Resource planning: Estimating time, budget, and the people needed to complete the project
+Why a website is never truly finished:
+Technology keeps changing, so updates are needed.
+Users’ needs and expectations evolve over time.
+Continuous improvement is necessary to keep the website functional, secure, and attractive.
+
+Q3.Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+Ans: Information gathering is the first step in building a website. It involves collecting all the details required to create a website that works well andmeets the
+goals.
+Process of information gathering:
+
+1.Understanding client requirements: Knowing what the client wants the website to do.
+
+2.Research: Studying competitors and similar websites to find ideas and standards.
+
+3.Audience analysis: Learning about the target users’ age, interests, and preferences.
+
+4.Content collection: Gathering text, images, videos, and other resources for the website.
+
+Importance of knowing the target audience:
+
+Helps design the website in a way that is easy to use and attractive.
+
+Guides what features and content should be included.
+
+Ensures the website meets the needs and expectations of the people who will visit it.
+
+
